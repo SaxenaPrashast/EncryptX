@@ -1,0 +1,38 @@
+# Binaries
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.dll
+*.a
+
+# C++ cache and intermediate files
+*.gch
+*.pch
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# CMake / build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# Logs
+*.log
+
+# Backup/swap files
+*~
+*.swp
+*.bak
