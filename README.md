@@ -1,4 +1,4 @@
-#EncryptX - Parallel Encryption and Decryption
+# EncryptX - Parallel Encryption and Decryption
 
 ## Overview
 
